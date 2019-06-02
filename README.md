@@ -8,5 +8,5 @@ Beta - 0.1dev
 * Python
   * [tempfile](https://docs.python.org/3/library/tempfile.html)
   * [os](https://docs.python.org/3/library/os.html)
-* [Names](https://pypi.org/project/names/)
-* [gTTS](https://pypi.org/project/gTTS/)
+* [Names](https://pypi.org/project/names/) - Random name generator
+* [gTTS](https://pypi.org/project/gTTS/) - gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate text-to-speech API
